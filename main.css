@@ -1,0 +1,25 @@
+body
+{
+	background-repeat: repeat;
+	background-position: center bottom;
+	font-family: Arial;
+}
+
+#container
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	width: 900px;
+	text-align: center;
+}
+
+.kurs
+{
+	display: inline-block;
+	width: 400px;
+	background-color: white;
+	margin: 0 20px;
+	border: 1px solid brown;
+	opacity: 1;
+}
